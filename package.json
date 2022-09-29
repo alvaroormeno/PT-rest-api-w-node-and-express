@@ -1,0 +1,27 @@
+{
+  "name": "pt-rest-api-w-node-and-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroormeno/PT-rest-api-w-node-and-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroormeno/PT-rest-api-w-node-and-express/issues"
+  },
+  "homepage": "https://github.com/alvaroormeno/PT-rest-api-w-node-and-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
